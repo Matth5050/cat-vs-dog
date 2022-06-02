@@ -1,28 +1,26 @@
-**flashcard-site**
+*flashcard-site*
 
-By Filmer Tolentino , Matt Herbert
-jQuery Epicodus lesson 41
+####By _**Matt Herbert**_ _**, Filmer Tolentino**_
+
+####jQuery Epicodus lesson 43_
 
 **Technologies Used**
 
--HTML
--CSS
--Bootstrap *JS *jQuery
--Github
+*_HTML_
+*_CSS_
+*_Bootstrap *JS *jQuery_
+*_Github_
 
 **Description**
 
-Epicodus week 2, practice more jQuery basics
+_Epicodus week 2, practice more jQuery basics_
 
-**Setup/Installation Requirements**
+**Setup/Installation Requirements
 
 git clone repository link, to your local machine download and install Bootstrap and jQuery
 open the index.html file in your browser, or run Go Live in VS Code to run the code on your local host.
 
 **License**
+*MIT
 
-MIT
-
-enter link description hereIf you run into any issues or have any concerns, feel free to Contact me: filmer.tolentino@gmail.com, or request to make any contributions to my code.
-
-Copyright (c) 5/27/2022 Filmer Tolentino, Matt Herbert
+Copyright (c) 5/27/2022 Matt Herbert, Filmer Tolentino
